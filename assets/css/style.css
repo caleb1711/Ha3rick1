@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Lato:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -7,6 +7,21 @@
 }
 
 body {
-    font-family: Karla;
+    font-family: Lato, sans-serif;
     font-weight: 400;
+    color: #373636;
+}
+
+H1,
+h2 {
+    font-family: Heebo, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #292727;
+}
+
+#score {
+    float: left;
+    font-size: 275%;
+
 }
