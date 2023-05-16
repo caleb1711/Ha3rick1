@@ -55,3 +55,11 @@ h2 {
 .active {
     border-bottom: 1px solid #292727;
 }
+
+#happykids {
+    height: 585px;
+    width: 100%;
+    background: url('../images/CoverSoccer.jpg') no-repeat center center;
+    overflow: hidden;
+
+}
