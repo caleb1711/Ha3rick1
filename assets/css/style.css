@@ -34,6 +34,7 @@ h2 {
 #score {
     float: left;
     font-size: 275%;
+    margin-left: 25px;
 }
 
 #deeper {
