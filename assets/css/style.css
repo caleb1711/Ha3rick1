@@ -20,8 +20,38 @@ h2 {
     color: #292727;
 }
 
+#deeper,
+#score {
+    line-height: 75px;
+
+}
+
+#deeper a {
+    text-decoration: none;
+    color: rgb(68, 68, 2);
+}
+
 #score {
     float: left;
     font-size: 275%;
+}
 
+#deeper {
+    font-size: 105%;
+    letter-spacing: 3px;
+}
+
+#deeper li {
+    float: right;
+    list-style-type: none;
+    margin-right: 25px;
+
+}
+
+#deeper a:hover {
+    border-bottom: 1px solid #292727;
+}
+
+.active {
+    border-bottom: 1px solid #292727;
 }
