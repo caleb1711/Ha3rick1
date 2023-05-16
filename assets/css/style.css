@@ -64,3 +64,28 @@ h2 {
     overflow: hidden;
 
 }
+
+#sec1 {
+    height: 585px;
+}
+
+#expectation {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    text-transform: uppercase;
+    background-color: rgb(240, 85, 85);
+}
+
+#silla {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: rgb(146, 234, 102);
+}
+
+#centro {
+    width: 33;
+    margin: 0 auto;
+    background-color: black;
+}
